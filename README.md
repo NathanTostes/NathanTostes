@@ -5,4 +5,5 @@
 <p>Always improving my skills and learning new tecnologies</p>
 <p>I am communicative, work well in teams, and enjoy both learning from and assisting my peers</p>
 <br>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=NathanTostes&theme=dark)](https://git.io/streak-stats)
