@@ -6,3 +6,5 @@
 <p>I am communicative, work well in teams, and enjoy both learning from and assisting my peers 🚀</p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=NathanTostes&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanTostes)](https://github.com/anuraghazra/github-readme-stats)
