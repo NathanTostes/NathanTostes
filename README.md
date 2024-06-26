@@ -1,4 +1,4 @@
-# Hello World! I'm Nathan Tostes
+# Nathan Tostes
 
 **Back-end Developer 💻**
 
