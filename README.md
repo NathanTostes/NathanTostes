@@ -19,19 +19,27 @@
 <img alt="HTML" align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 <img alt="CSS" align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 <img alt="JavaScript" align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+
 <br>
+
 **Java**
 <p>Java 8 | Java 17 | JDBC | JUnit | Gradle</p>
+
 **Database**
 <p>MySQL | Database Model</p>
+
 **Version Control**
 <p>Git | GitHub</p>
+
 **DevOps**
 <p>Linux</p>
+
 **Basic Frontend**
 <p>HTML | CSS | JavaScript</p>
 
+
 <br>
+
 ---
 ### Stats 📈
 [![GitHub Streak](https://streak-stats.demolab.com/?user=NathanTostes&theme=dark)](https://git.io/streak-stats)
