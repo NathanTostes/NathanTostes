@@ -35,6 +35,9 @@
 **DevOps**
 <p>Linux</p>
 
+**Low-level**
+<p>C</p>
+
 **Basic Frontend**
 <p>HTML | CSS | JavaScript</p>
 
