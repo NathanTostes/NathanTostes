@@ -9,7 +9,7 @@
 <p>I'm ready to face any challenge without issue and do my best to solve problems 🎯</p>
 
 ---
-### Languages, Tools and Other Knowledges 💼 
+### Stack 💼 
 <img alt="Java" align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 <img alt="MySQL" align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
 <img alt="Git" align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
