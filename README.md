@@ -25,7 +25,7 @@
 <p>Git | GitHub</p>
 
 **DevOps**
-<p>Linux</p>
+<p>Linux | AWS</p>
 
 **Basic Frontend**
 <p>HTML | CSS | JavaScript</p>
