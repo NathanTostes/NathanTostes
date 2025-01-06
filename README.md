@@ -10,10 +10,7 @@
 
 ---
 ### Stack 💼 
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,git,github,linux,aws,html,css,js)](https://skillicons.dev)
-
-**Java**
-<p>Java 8 | Java 17</p>
+[![My Skills](https://skillicons.dev/icons?i=mysql,git,github,linux,aws,java,html,css,js)](https://skillicons.dev)
 
 **Database**
 <p>MySQL | Database Model</p>
@@ -27,6 +24,8 @@
 **DevOps**
 <p>Linux | AWS</p>
 
+**Java**
+<p>Java 8 | Java 17</p>
+
 **Basic Frontend**
 <p>HTML | CSS | JavaScript</p>
-
