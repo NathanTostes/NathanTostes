@@ -10,7 +10,7 @@
 
 ---
 ### Stack 💼 
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,git,github,linux,aws,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,git,github,gitlab,linux,aws,html,css,js)](https://skillicons.dev)
 
 **Java**
 <p>JUnit | Gradle</p>
@@ -22,7 +22,7 @@
 <p>Algorithms | Data Structures | OOP</p>
 
 **Version Control**
-<p>Git | GitHub</p>
+<p>Git | GitHub | GitLab</p>
 
 **DevOps**
 <p>Linux | AWS</p>
