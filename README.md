@@ -10,13 +10,16 @@
 
 ---
 ### Stack 💼 
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,git,github,gitlab,linux,aws,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,linux,aws,git,github,gitlab,html,css,js,react)](https://skillicons.dev)
 
 **Java**
-<p>JUnit | Gradle</p>
+<p>Java 8 | Java 17 | JUnit | Gradle</p>
 
 **Database**
-<p>MySQL | Database Model</p>
+<p>Database Model | MySQL</p>
+
+**DevOps**
+<p>Linux | AWS</p>
 
 **Theory**
 <p>Algorithms | Data Structures | OOP</p>
@@ -24,11 +27,5 @@
 **Version Control**
 <p>Git | GitHub | GitLab</p>
 
-**DevOps**
-<p>Linux | AWS</p>
-
-**Java**
-<p>Java 8 | Java 17</p>
-
-**Basic Frontend**
-<p>HTML | CSS | JavaScript</p>
+**Basic Frontend & Mobile**
+<p>HTML | CSS | JavaScript | React | React Native</p>
