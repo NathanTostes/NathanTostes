@@ -21,11 +21,11 @@
 **DevOps**
 <p>Linux | AWS</p>
 
-**Theory**
-<p>Algorithms | Data Structures | OOP</p>
-
 **Version Control**
 <p>Git | GitHub | GitLab</p>
+
+**Theory**
+<p>Algorithms | Data Structures | OOP</p>
 
 **Basic Frontend & Mobile**
 <p>HTML | CSS | JavaScript | React | React Native</p>
