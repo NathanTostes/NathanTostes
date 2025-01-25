@@ -16,7 +16,7 @@
 <p>Java 8 | Java 17 | JUnit | Gradle</p>
 
 **Database**
-<p>Database Model | MySQL</p>
+<p>MySQL</p>
 
 **DevOps**
 <p>Linux | AWS</p>
@@ -25,7 +25,7 @@
 <p>Git | GitHub | GitLab</p>
 
 **Theory**
-<p>Algorithms | Data Structures | OOP</p>
+<p>Algorithms & Data Structures | OOP</p>
 
 **Frontend & Mobile**
 <p>ReactJS | React Native</p>
