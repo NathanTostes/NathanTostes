@@ -27,5 +27,5 @@
 **Theory**
 <p>Algorithms | Data Structures | OOP</p>
 
-**Basic Frontend & Mobile**
+**Frontend & Mobile**
 <p>ReactJS | React Native</p>
