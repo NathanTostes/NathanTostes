@@ -2,8 +2,8 @@
 
 **Back-end Developer 💻**
 
+<p>CNPq scholarship holder in a project called Portuguito 💡</p>
 <p>Currently studying systems development at IFMG 👨🏾‍🎓</p>
-<p>I'm passionate about technology ❤️‍🔥</p>
 <p>Always seeking to improve and learn new technologies 🚀</p>
 <p>I am communicative, work well in teams, enjoy learn and help my teammates 🌱</p>
 <p>I'm ready to face any challenge without issue and do my best to solve problems 🎯</p>
