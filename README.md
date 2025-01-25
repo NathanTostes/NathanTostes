@@ -28,4 +28,4 @@
 <p>Algorithms | Data Structures | OOP</p>
 
 **Basic Frontend & Mobile**
-<p>HTML | CSS | JavaScript | React | React Native</p>
+<p>HTML | CSS | ReactJS | React Native</p>
