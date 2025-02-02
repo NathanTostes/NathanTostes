@@ -10,7 +10,7 @@
 
 ---
 ### Stack 💼 
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,linux,aws,git,github,gitlab,js,react,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,linux,aws,git,github,gitlab,react,firebase)](https://skillicons.dev)
 
 **Java**
 <p>Java 8 | Java 17 | JUnit | Gradle</p>
