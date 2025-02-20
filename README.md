@@ -1,6 +1,6 @@
 # Nathan Tostes
 
-**Back-end Developer 💻**
+**Backend Developer 💻**
 
 <p>CNPq scholarship holder in a project called Portuguito 💡</p>
 <p>Currently studying systems development at IFMG 👨🏾‍🎓</p>
