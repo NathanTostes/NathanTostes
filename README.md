@@ -16,7 +16,7 @@
 <p>Spring | JDBC | JUnit | Maven | Gradle</p>
 
 **Database**
-<p>PostgreSQL | MySQL | Database Model</p>
+<p>PostgreSQL | MySQL | SQLite | Database Model</p>
 
 **DevOps**
 <p>Linux | AWS</p>
