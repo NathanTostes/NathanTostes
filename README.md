@@ -13,7 +13,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mysql,sqlite,linux,aws,git,github,gitlab,react,firebase)](https://skillicons.dev)
 
 **Java**
-<p>Spring | JDBC | JUnit | Maven | Gradle</p>
+<p>Spring | JDBC | JUnit | Maven</p>
 
 **Database**
 <p>PostgreSQL | MySQL | SQLite | Database Model</p>
