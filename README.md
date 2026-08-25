@@ -4,7 +4,7 @@
 
 <p>CNPq scholarship holder in a project called Portuguito 💡</p>
 <p>Currently studying computer science at UFJF 👨🏾‍🎓</p>
-<p>Tecnical formation in systems development at IFMG 👨🏾‍🎓</p>
+<p>Tecnical formation in systems development at IFMG ⚙️</p>
 <p>Always seeking to improve and learn new technologies 🚀</p>
 <p>I am communicative, work well in teams, enjoy learn and help my teammates 🌱</p>
 <p>I'm ready to face any challenge without issue and do my best to solve problems 🎯</p>
